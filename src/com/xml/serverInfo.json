@@ -1,0 +1,22 @@
+{
+	"Local": {
+		"serverName": "Local",
+		"ip": "MTI3LjAuMC4x",
+		"port": 3306,
+		"uname": "cm9vdA==",
+		"pass": "cm9vdA==",
+		"database": "medical",
+		"type": "local",
+		"status": 1
+	},
+	"Remote": {
+		"serverName": "Remote",
+		"ip": "MzUuMTg2LjE2My4xNzI=",
+		"port": 3306,
+		"uname": "cm9vdA==",
+		"pass": "cm9vdA==",
+		"database": "trolley",
+		"type": "remote",
+		"status": 1
+	}
+}
